@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Marcio Alves</h1>
 
 ---
-# Hello! 👋
 
 I am a fullstack JavaScript developer with over three years of experience, focused on building efficient and scalable web applications.
 
@@ -11,7 +10,6 @@ I am a fullstack JavaScript developer with over three years of experience, focus
 - 🚀 I also worked as a fullstack developer at [Seias-Sergipe](https://github.com/seias-sergipe) for two years, contributing to a significant project focused on the Cadastro Único (Unified Registry).
 
 I am always looking to improve and stay updated with technological innovations to offer robust and innovative solutions.
-
 
 ---
 
