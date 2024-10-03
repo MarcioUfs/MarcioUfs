@@ -85,16 +85,8 @@ I am always looking to improve and stay updated with technological innovations t
 [![Chandan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcioUfs&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<!-- [![MarcioUfs's GitHub | Languages Over Time](https://stats.quine.sh/MarcioUfs/languages-over-time?theme=dark)](https://quine.sh) -->
+[![MarcioUfs's GitHub | Languages Over Time](https://stats.quine.sh/MarcioUfs/languages-over-time?theme=dark)](https://quine.sh)
 
-
-<div>
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/MarcioUfs" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@MarcioUfs"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 <div>
 <a href="https://github.com/MarcioUfs">
