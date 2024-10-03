@@ -3,14 +3,15 @@
 <h1 align="center">Hi 👋, I'm Marcio Alves</h1>
 
 ---
-# Olá! 👋
+# Hello! 👋
 
-Sou desenvolvedor fullstack JavaScript com mais de três anos de experiência, focado em criar aplicações web eficientes e escaláveis. 
+I am a fullstack JavaScript developer with over three years of experience, focused on building efficient and scalable web applications.
 
-- 💻 Trabalhei como desenvolvedor front end na [Softeam](https://github.com/softeam-org), desenvolvendo interfaces interativas e otimizadas.
-- 🚀 Atuei como desenvolvedor fullstack na [Seias-Sergipe](https://github.com/seias-sergipe) por dois anos, contribuindo em um projeto de grande importância voltado para o Cadastro Único.
+- 💻 I worked as a front-end developer at [Softeam](https://github.com/softeam-org), developing interactive and optimized interfaces.
+- 🚀 I also worked as a fullstack developer at [Seias-Sergipe](https://github.com/seias-sergipe) for two years, contributing to a significant project focused on the Cadastro Único (Unified Registry).
 
-Estou sempre buscando me aprimorar e acompanhar as inovações tecnológicas para oferecer soluções inovadoras e robustas.
+I am always looking to improve and stay updated with technological innovations to offer robust and innovative solutions.
+
 
 ---
 
