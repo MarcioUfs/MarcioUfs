@@ -93,7 +93,7 @@ I am always looking to improve and stay updated with technological innovations t
 
 
 
-<!--## Olá!  👋
+## Olá!  👋
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
@@ -112,7 +112,7 @@ I am always looking to improve and stay updated with technological innovations t
 </div>
   
 ![Snake animation](https://github.com/MarcioUfs/MarcioUfs/blob/output/github-contribution-grid-snake.svg)
--->
+
 <!--
 **MarcioUfs/MarcioUfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
