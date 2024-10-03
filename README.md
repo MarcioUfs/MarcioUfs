@@ -3,6 +3,16 @@
 <h1 align="center">Hi 👋, I'm Marcio Alves</h1>
 
 ---
+# Olá! 👋
+
+Sou desenvolvedor fullstack JavaScript com mais de três anos de experiência, focado em criar aplicações web eficientes e escaláveis. 
+
+- 💻 Trabalhei como desenvolvedor front end na [Softeam](https://github.com/softeam-org), desenvolvendo interfaces interativas e otimizadas.
+- 🚀 Atuei como desenvolvedor fullstack na [Seias-Sergipe](https://github.com/seias-sergipe) por dois anos, contribuindo em um projeto de grande importância voltado para o Cadastro Único.
+
+Estou sempre buscando me aprimorar e acompanhar as inovações tecnológicas para oferecer soluções inovadoras e robustas.
+
+---
 
 <h3 align="left">Let's Connect:</h3>
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=MarcioUfs&label=Profile%20views&color=0e75b6&style=flat" alt="MarcioUfs" /> </h3>
