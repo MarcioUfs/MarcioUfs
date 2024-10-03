@@ -36,10 +36,10 @@
 [![](https://img.shields.io/badge/CSS--1572B6?style=for-the-badge&logo=CSS3)](#) 
 [![](https://img.shields.io/badge/JavaScript--F7DF1E?style=for-the-badge&logo=JavaScript)](#) 
 [![](https://img.shields.io/badge/Bootstrap--7952B3?style=for-the-badge&logo=Bootstrap)](#) 
-[![](https://img.shields.io/badge/MaterialUI--7952B3?style=for-the-badge&logo=MAterialUI)](#) 
 [![](https://img.shields.io/badge/React--61DAFB?style=for-the-badge&logo=React)](#) 
 [![](https://img.shields.io/badge/git--F05032?style=for-the-badge&logo=git)](#) 
 [![](https://img.shields.io/badge/postgresql--F05032?style=for-the-badge&logo=postgreSQL)](#) 
+[![](https://img.shields.io/badge/node--F05032?style=for-the-badge&logo=node)](#) 
 <!-- [![](https://img.shields.io/badge/Django--092E20?style=for-the-badge&logo=Django)](#)  -->
 <!-- [![](https://img.shields.io/badge/MySQL--4479A1?style=for-the-badge&logo=MySQL)](#)  -->
 <!-- [![](https://img.shields.io/badge/Linux--FCC624?style=for-the-badge&logo=Linux)](#) -->
