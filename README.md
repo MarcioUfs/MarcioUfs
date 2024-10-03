@@ -66,7 +66,7 @@ I am always looking to improve and stay updated with technological innovations t
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=MarcioUfs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=MarcioUfs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></td>
     <!-- <td><img loading="lazy" height="200" src="https://github-readme-stats.vercel.app/api?username=MarcioUfs&show_icons=true&layout=compact&langs_count=7&theme=radical#gh-dark-mode-only&include_all_commits=true&count_private=true"/></td> -->
     <!-- GitHub Top Language Card -->
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioUfs&layout=compact&theme=radical&custom_title=Languages"/></td>
