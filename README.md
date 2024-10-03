@@ -12,12 +12,12 @@ I am a fullstack JavaScript developer with over three years of experience, focus
 
 I am always looking to improve and stay updated with technological innovations to offer robust and innovative solutions.
 
----
-
 [![](https://img.shields.io/badge/-Marcio%20Alves-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcio-alves-b0012098/)](https://www.linkedin.com/in/marcio-alves-b0012098/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcio_dev/)
 [![](https://img.shields.io/badge/-@MarcioUfs-%23181717?style=for-the-badge&logo=github)](https://github.com/MarcioUfs)
 [![](https://img.shields.io/badge/My%20portfolio-B9B3A6?style=for-the-badge&logo=world)](https://marciosalves.com.br)
+
+---
 
 <!-- <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 <div id="badges" align = "center">
