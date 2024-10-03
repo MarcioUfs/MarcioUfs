@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LeetCode-1A1A1A?style=for-the-badge&logo=LeetCode" alt="gfg Badge"/>
   </a> -->
 </div>
----
+
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
 <h3 align="left">Languages and Tools:</h3>
