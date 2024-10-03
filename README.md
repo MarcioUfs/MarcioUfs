@@ -2,7 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Marcio Alves</h1>
 
+<h3 align="left">Let's Connect:</h3>
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=MarcioUfs&label=Profile%20views&color=0e75b6&style=flat" alt="MarcioUfs" /> </h3>
+
 ---
+# Hello! 👋
 
 I am a fullstack JavaScript developer with over three years of experience, focused on building efficient and scalable web applications.
 
@@ -11,12 +15,8 @@ I am a fullstack JavaScript developer with over three years of experience, focus
 
 I am always looking to improve and stay updated with technological innovations to offer robust and innovative solutions.
 
+
 ---
-
-<h3 align="left">Let's Connect:</h3>
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=MarcioUfs&label=Profile%20views&color=0e75b6&style=flat" alt="MarcioUfs" /> </h3>
-
-<p></p>
 
 [![](https://img.shields.io/badge/-Marcio%20Alves-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcio-alves-b0012098/)](https://www.linkedin.com/in/marcio-alves-b0012098/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcio_dev/)
