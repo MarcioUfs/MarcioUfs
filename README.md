@@ -67,17 +67,16 @@ I am always looking to improve and stay updated with technological innovations t
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=MarcioUfs&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=MarcioUfs&layout=compact&langs_count=7&theme=radical#gh-dark-mode-only"/></td>
     <!-- GitHub Top Language Card -->
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioUfs&layout=compact&theme=radical&custom_title=Languages"/></td>
   </tr>
 </table>
 
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MarcioUfs&&theme=dark&show_icons=true)](https://git.io/streak-stats" />  -->
-
 <!-- <div>
 <a href="https://github.com/MarcioUfs">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioUfs&layout=compact&langs_count=7&theme=dracula"/>
+
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcioUfs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div> -->
 
