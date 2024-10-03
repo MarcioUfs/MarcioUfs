@@ -74,6 +74,8 @@ I am always looking to improve and stay updated with technological innovations t
 </table>
 
 
+<a href="https://github.com/MarcioUfs">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioUfs&layout=compact&langs_count=7&theme=dracula"/>
 <!-- <div>
 <a href="https://github.com/MarcioUfs">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioUfs&layout=compact&langs_count=7&theme=dracula"/>
