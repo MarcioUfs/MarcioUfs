@@ -7,6 +7,7 @@
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=MarcioUfs&label=Profile%20views&color=0e75b6&style=flat" alt="MarcioUfs" /> </h3>
 
 <div id="badges" align = "center">
+   [![](https://img.shields.io/badge/-Marcio%20Alves-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcio-alves-b0012098/)](https://www.linkedin.com/in/marcio-alves-b0012098/)
   <a href="https://www.linkedin.com/in/marcio-alves-b0012098/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://www.linkedin.com/in/marcio-alves-b0012098/" target="_blank">
