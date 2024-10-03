@@ -81,6 +81,6 @@ I am always looking to improve and stay updated with technological innovations t
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcioUfs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-[![Chandan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcioUfs&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![MarcioUfs's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcioUfs&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
