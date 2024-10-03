@@ -14,7 +14,8 @@
 
 ---
 
-[![](https://img.shields.io/badge/any_text-you_like-blue)](https://marciosalves.com.br)
+[![](https://img.shields.io/badge/portfolio-B9B3A6?style=for-the-badge&logo=world)](https://marciosalves.com.br)
+
 
 <!-- <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/> -->
 <div id="badges" align = "center">
