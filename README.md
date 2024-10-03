@@ -59,9 +59,9 @@ I am always looking to improve and stay updated with technological innovations t
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcioUfs&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcioUfs&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p>
 <p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MarcioUfs&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MarcioUfs&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
 
 <table cellpadding="0">
   <tr style="padding: 0">
