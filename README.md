@@ -7,30 +7,17 @@
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=MarcioUfs&label=Profile%20views&color=0e75b6&style=flat" alt="MarcioUfs" /> </h3>
 
 <div id="badges" align = "center">
-  <a href="https://www.linkedin.com/in/marcio-alves-b0012098/">
+  <a href="https://www.linkedin.com/in/marcio-alves-b0012098/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- <!-- <a href="https://twitter.com/MarcioUfs">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
-  </a> 
-  <a href="https://nullhackers.hashnode.dev/">
-    <img src="https://img.shields.io/badge/hashnode-orange?style=for-the-badge&logo=hashnode&logoColor=royalblue" alt="hashnode Badge"/>
-  </a>
-    <a href="https://auth.geeksforgeeks.org/user/MarcioUfs1/practice">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F2B3C?style=for-the-badge&logo=GeeksforGeeks" alt="gfg Badge"/>
-  </a>
-    <a href="https://www.hackerrank.com/MarcioUfs">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="gfg Badge"/>
-  </a> -->
-  <a href="https://marciosalves.com.br/">
+  <a href="https://marciosalves.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-B9B3A6?style=for-the-badge&logo=world" alt="portfolio Badge"/>
   </a>
   <!-- <a href="#">
     <img src="https://img.shields.io/badge/LeetCode-1A1A1A?style=for-the-badge&logo=LeetCode" alt="gfg Badge"/>
   </a> -->
-
 </div>
-
+---
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
 <h3 align="left">Languages and Tools:</h3>
