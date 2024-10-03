@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/-@MarcioUfs-%23181717?style=for-the-badge&logo=github)](https://github.com/MarcioUfs)
 [![](https://img.shields.io/badge/My%20portfolio-B9B3A6?style=for-the-badge&logo=world)](https://marciosalves.com.br)
 
-<!-- <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/> -->
+<!-- <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 <div id="badges" align = "center">
    
   <a href="https://www.linkedin.com/in/marcio-alves-b0012098/" target="_blank">
@@ -20,10 +20,10 @@
   <a href="https://marciosalves.com.br/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-B9B3A6?style=for-the-badge&logo=world" alt="portfolio Badge"/>
   </a>
-  <!-- <a href="#">
+  <a href="#">
     <img src="https://img.shields.io/badge/LeetCode-1A1A1A?style=for-the-badge&logo=LeetCode" alt="gfg Badge"/>
-  </a> -->
-</div>
+  </a>
+</div> -->
 
 
 
