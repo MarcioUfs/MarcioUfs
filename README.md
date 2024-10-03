@@ -11,7 +11,10 @@
 ---
 
 [![](https://img.shields.io/badge/-@MarcioUfs-%23181717?style=for-the-badge&logo=github)](https://github.com/MarcioUfs)
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+
+---
+
+<!-- <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/> -->
 <div id="badges" align = "center">
    
   <a href="https://www.linkedin.com/in/marcio-alves-b0012098/" target="_blank">
@@ -26,7 +29,7 @@
   </a> -->
 </div>
 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
