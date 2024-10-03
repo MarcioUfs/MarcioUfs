@@ -5,16 +5,12 @@
 <h3 align="left">Let's Connect:</h3>
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=MarcioUfs&label=Profile%20views&color=0e75b6&style=flat" alt="MarcioUfs" /> </h3>
 
----
-# Hello! 👋
-
 I am a fullstack JavaScript developer with over three years of experience, focused on building efficient and scalable web applications.
 
 - 💻 I worked as a front-end developer at [Softeam](https://github.com/softeam-org), developing interactive and optimized interfaces.
 - 🚀 I also worked as a fullstack developer at [Seias-Sergipe](https://github.com/seias-sergipe) for two years, contributing to a significant project focused on the Cadastro Único (Unified Registry).
 
 I am always looking to improve and stay updated with technological innovations to offer robust and innovative solutions.
-
 
 ---
 
