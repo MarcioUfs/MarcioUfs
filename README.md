@@ -1,10 +1,10 @@
 
 
-<h1 align="center">Hi 👋, I'm MarcioUfs Alves</h1>
+<h1 align="center">Hi 👋, I'm Marcio Alves</h1>
 
 
 <h3 align="left">Let's Connect:</h3>
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=sunny7739&label=Profile%20views&color=0e75b6&style=flat" alt="sunny7739" /> </h3>
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=MarcioUfs&label=Profile%20views&color=0e75b6&style=flat" alt="MarcioUfs" /> </h3>
 
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/MarcioUfs/">
@@ -79,7 +79,6 @@
 
 [![Chandan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcioUfs&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![@MarcioUfs's Holopin board](https://holopin.me/MarcioUfs)](https://holopin.io/@MarcioUfs)
 
 <!-- [![MarcioUfs's GitHub | Languages Over Time](https://stats.quine.sh/MarcioUfs/languages-over-time?theme=dark)](https://quine.sh) -->
 
