@@ -5,7 +5,10 @@
 
 <h3 align="left">Let's Connect:</h3>
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=MarcioUfs&label=Profile%20views&color=0e75b6&style=flat" alt="MarcioUfs" /> </h3>
+
 [![](https://img.shields.io/badge/-Marcio%20Alves-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcio-alves-b0012098/)](https://www.linkedin.com/in/marcio-alves-b0012098/)
+
+[![](https://img.shields.io/badge/-@danilobbezerra-%23181717?style=for-the-badge&logo=github)](https://github.com/danilobbezerra)
 <div id="badges" align = "center">
    
   <a href="https://www.linkedin.com/in/marcio-alves-b0012098/" target="_blank">
