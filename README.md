@@ -4,8 +4,6 @@
 
 ---
 
----
-
 <h3 align="left">Let's Connect:</h3>
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=MarcioUfs&label=Profile%20views&color=0e75b6&style=flat" alt="MarcioUfs" /> </h3>
 
