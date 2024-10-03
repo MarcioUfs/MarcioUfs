@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Marcio Alves</h1>
 
+---
+
+---
 
 <h3 align="left">Let's Connect:</h3>
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=MarcioUfs&label=Profile%20views&color=0e75b6&style=flat" alt="MarcioUfs" /> </h3>
@@ -9,6 +12,7 @@
 <p></p>
 
 [![](https://img.shields.io/badge/-Marcio%20Alves-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcio-alves-b0012098/)](https://www.linkedin.com/in/marcio-alves-b0012098/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcio_dev/)
 [![](https://img.shields.io/badge/-@MarcioUfs-%23181717?style=for-the-badge&logo=github)](https://github.com/MarcioUfs)
 [![](https://img.shields.io/badge/My%20portfolio-B9B3A6?style=for-the-badge&logo=world)](https://marciosalves.com.br)
 
