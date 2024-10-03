@@ -72,14 +72,8 @@ I am always looking to improve and stay updated with technological innovations t
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MarcioUfs&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
-
 <!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
-</p> -->
-
-<!-- [![Chandan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarcioUfs&theme=merko)](https://github.com/MarcioUfs/github-readme-activity-graph) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MarcioUfs&&theme=dark&show_icons=true)](https://git.io/streak-stats" />  -->
 
 <div>
 <a href="https://github.com/MarcioUfs">
