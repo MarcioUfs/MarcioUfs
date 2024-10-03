@@ -8,7 +8,8 @@
 
 [![](https://img.shields.io/badge/-Marcio%20Alves-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcio-alves-b0012098/)](https://www.linkedin.com/in/marcio-alves-b0012098/)
 
-[![](https://img.shields.io/badge/-@danilobbezerra-%23181717?style=for-the-badge&logo=github)](https://github.com/danilobbezerra)
+[![](https://img.shields.io/badge/-@Marcio-%23181717?style=for-the-badge&logo=github)](https://github.com/MarcioUfs)
+
 <div id="badges" align = "center">
    
   <a href="https://www.linkedin.com/in/marcio-alves-b0012098/" target="_blank">
