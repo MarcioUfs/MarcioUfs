@@ -68,14 +68,14 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MarcioUfs&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
-</p>
+</p> -->
 
 <!-- [![Chandan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarcioUfs&theme=merko)](https://github.com/MarcioUfs/github-readme-activity-graph) -->
 
 
-<!-- [![Chandan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcioUfs&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Chandan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcioUfs&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- [![MarcioUfs's GitHub | Languages Over Time](https://stats.quine.sh/MarcioUfs/languages-over-time?theme=dark)](https://quine.sh) -->
