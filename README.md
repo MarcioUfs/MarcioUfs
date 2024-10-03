@@ -81,12 +81,12 @@ I am always looking to improve and stay updated with technological innovations t
 
 <!-- [![Chandan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarcioUfs&theme=merko)](https://github.com/MarcioUfs/github-readme-activity-graph) -->
 
-
-[![Chandan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcioUfs&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <div>
 <a href="https://github.com/MarcioUfs">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioUfs&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcioUfs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+[![Chandan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcioUfs&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
